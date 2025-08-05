@@ -30,7 +30,8 @@ Dans ce cours, vous allez :
 
 ### Comment commencer ce cours
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template=true&owner=DocteurSEO&name=skills-hello-github-actions)
+[![Commencer-cours](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=DocteurSEO&template_name=skills-hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=My+clone+repository&visibility=public)
+
 
 
 1. Cliquez droit sur **Start course** et ouvrez le lien dans un nouvel onglet.
