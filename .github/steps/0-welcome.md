@@ -1,1 +1,1 @@
-<!-- The readme will be displayed. -->
+<!-- Le readme va être affiché. -->
