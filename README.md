@@ -4,6 +4,10 @@
 
 _Créer et exécuter un workflow GitHub Actions._
 
+
+😅 "QUOI ? un tuto ? faut lire ? flemme..."
+
+Rassure-toi, jeune TikTokeur, ça va bien aller.
 </header>
 
 ## Bienvenue

@@ -2,9 +2,7 @@
 
 _Bienvenue dans "Hello GitHub Actions" ! :wave:_
 
-😅 "QUOI ? un tuto ? faut lire ? flemme..."
 
-Rassure-toi, jeune TikTokeur, ça va bien aller.
 
 
 
